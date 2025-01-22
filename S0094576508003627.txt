@@ -1,0 +1,10 @@
+Elliott Coleshill, Layi Oshinowo, Richard Rembala, Bardia Bina, Daniel Rey, Shelley Sindelar,
+Dextre: Improving maintenance operations on the International Space Station,
+Acta Astronautica,
+Volume 64, Issues 9–10,
+2009,
+Pages 869-874,
+ISSN 0094-5765,
+https://doi.org/10.1016/j.actaastro.2008.11.011.
+(https://www.sciencedirect.com/science/article/pii/S0094576508003627)
+Abstract: The Special Purpose Dexterous Manipulator (SPDM), known as “Dextre”, is currently slated to launch in February 2008 for deployment on the International Space Station (ISS) as the final component of Canada's Mobile Servicing System (MSS). Dextre's primary role on the Space Station is to perform repair and replacement (R&R) maintenance tasks on robotically compatible hardware such as Orbital Replaceable Units (ORUs), thereby eventually easing the burden on the ISS crew. This burden on the on-orbit crew translates practically into crew time being a limited resource on the ISS, and as such, finding ways to assist the crew in performing their tasks or offloading the crew completely when appropriate is a bonus to the ISS program. This is already accomplished very effectively by commanding as many non-critical robotics tasks as possible, such as powering up and free-space maneuvering of the Space Station Remote Manipulator System (SSRMS), known as “Canadarm2”, from the Ground. Thus, beyond its primary role, and based on an increasing clarity regarding the challenges of external maintenance on the ISS, Dextre is being considered for use in a number of ways with the objective of improving ISS operations while reducing and optimizing the use of crew time through the use of ground control for various tasks, pre-positioning hardware, acting as a temporary storage platform to break an Extra Vehicular Activity (EVA) day into manageable timelines, and extending the physical reach and range of the Canadarm2. This paper discusses the planned activities and operations for Dextre an rationale for how these will help optimize the use of crew resources on the ISS.
